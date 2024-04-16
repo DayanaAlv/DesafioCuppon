@@ -1,0 +1,27 @@
+.card {
+    padding: 2rem;
+}
+.imgCupon {
+    width: 100px;
+}
+.formulario {
+    padding: 2rem;
+   margin: 2rem;
+}
+.datosFormulario {
+    padding: 1rem;
+}
+.datosFormulario2 {
+    padding: 1rem;
+}
+.tituloFormulario {
+    text-align: center;
+    size: 5px;
+    color: black;
+}
+.footer {
+     text-align: center;
+}
+.imgFooter {
+    width: 100px ;
+}
